@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="22" viewBox="0 0 32 22">
+    <defs>
+        <clipPath id="t71balsbca">
+            <path data-name="사각형 4900" transform="translate(871 471)" style="stroke:#707070" d="M0 0h32v22H0z"/>
+        </clipPath>
+    </defs>
+    <g style="clip-path:url(#t71balsbca)">
+        <g style="opacity:.8" transform="translate(-871 -471)">
+            <path data-name="사각형 4897" d="m879.949 476.344-7.071 7.071-1.414-1.414 7.07-7.071z"/>
+            <path data-name="사각형 4898" d="m878.535 489.07-7.071-7.071 1.414-1.414 7.071 7.07z"/>
+            <path data-name="사각형 4899" d="M877.535 481h25v2h-25z"/>
+        </g>
+    </g>
+</svg>

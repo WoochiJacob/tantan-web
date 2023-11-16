@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="12" viewBox="0 0 8 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_5961" data-name="사각형 5961" class="cls-1" width="8" height="12" transform="translate(-19684 -18405)"/>
+    </clipPath>
+  </defs>
+  <g id="More_info_btn" data-name="More info_btn" class="cls-2" transform="translate(19684 18405)">
+    <g id="LeftMove_btn_ic" transform="translate(-18811.535 -17951) rotate(180)">
+      <rect id="사각형_4983" data-name="사각형 4983" class="cls-1" width="8" height="2" transform="translate(872 443.758) rotate(135)"/>
+      <rect id="사각형_4984" data-name="사각형 4984" class="cls-1" width="8" height="2" transform="translate(870.586 453.656) rotate(-135)"/>
+    </g>
+  </g>
+</svg>

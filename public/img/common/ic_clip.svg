@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="2rq16wxv7a">
+            <path data-name="사각형 1231" style="fill:#fff;stroke:#707070" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="마스크 그룹 67" style="clip-path:url(#2rq16wxv7a)">
+        <g data-name="그룹 429">
+            <path data-name="패스 6800" d="M1 0h11.2a1 1 0 0 1 1 1v12.4a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" transform="translate(3.6 7.2)" style="fill:#f7f8fa"/>
+            <path data-name="사각형 1226 - 윤곽선" d="M1.2 1.2v12H12v-12H1.2m0-1.2H12a1.2 1.2 0 0 1 1.2 1.2v12a1.2 1.2 0 0 1-1.2 1.2H1.2A1.2 1.2 0 0 1 0 13.2v-12A1.2 1.2 0 0 1 1.2 0z" transform="translate(3.6 7.2)" style="fill:#bec3cd"/>
+            <path data-name="빼기 155" d="M12.2 15.6H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1h9.509L13.2 2.69V14.6a1 1 0 0 1-1 1z" transform="translate(7.2 2.4)" style="fill:#f7f8fa"/>
+            <path data-name="빼기 155 - 윤곽선" d="M3341.767 117.914V106.7l-1.989-1.988h-8.811v13.2h10.8m0 1.2h-10.8a1.2 1.2 0 0 1-1.2-1.2v-13.2a1.2 1.2 0 0 1 1.2-1.2h9.309l2.691 2.691v11.708a1.2 1.2 0 0 1-1.2 1.203z" transform="translate(-3322.568 -101.114)" style="fill:#bec3cd"/>
+        </g>
+    </g>
+</svg>

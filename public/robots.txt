@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /
+
+# Google Search
+User-agent: Googlebot
+Allow : / 
+Disallow: /api*/
+Disallow: /oauth*/
+Disallow: /userprofile*/
+
+# Naver Search
+User-agent: Yeti
+Allow: /
+Disallow: /api*/
+Disallow: /oauth*/
+Disallow: /userprofile*/
+
+#DaumWebMasterTool:a2a89ef6410ef86f1255176b278f38ae01f314f54e634d9437e3a8a3161ae3ed:0fFhJDaJvsxL453A9B/tpw==
+
+Sitemap: https://conutsquare.io/sitemap.xml

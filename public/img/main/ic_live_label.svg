@@ -1,0 +1,11 @@
+<svg id="Live_badge" xmlns="http://www.w3.org/2000/svg" width="60" height="30" viewBox="0 0 60 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="사각형_4878" data-name="사각형 4878" width="60" height="30" rx="15"/>
+  <path id="패스_7573" data-name="패스 7573" class="cls-1" d="M1.176,0,1.162-9.8H3.416L3.43-1.848h4.9L8.344,0ZM9.618,0V-9.8h2.268V0Zm7.476,0L12.866-9.8h2.45l3.7,8.68H17.57L21.322-9.8h2.254L19.334,0ZM26.46-5.838l4.732-.014V-4.1l-4.718.014Zm.154,4.018h5.362L31.962,0H24.388L24.4-9.8h7.392l-.028,1.82H26.642Z" transform="translate(13.84 19.801)"/>
+</svg>

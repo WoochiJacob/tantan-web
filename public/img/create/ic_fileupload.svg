@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="124" viewBox="0 0 124 124">
+    <defs>
+        <clipPath id="hu1vbmqhia">
+            <path data-name="사각형 6179" transform="translate(598 569)" style="fill:#fff;stroke:#707070" d="M0 0h124v124H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 7185" transform="translate(-598 -569)" style="clip-path:url(#hu1vbmqhia)">
+        <g data-name="그룹 7184">
+            <path data-name="빼기 210" d="M14948 12327h-8v-4h8v4zm-11 0h-8v-8h4v4h4v4zm-4-11h-4v-8h4v8zm0-11h-4v-8h4v8zm0-11h-4v-8h4v8zm0-11h-4v-8h4v8zm0-11h-4v-8h4v8zm81-11h-4v-8h4v8zm-81 0h-4v-8h4v8zm81-11h-4v-4h-4v-4h8v8zm-81 0h-4v-8h8v4h-4v4zm70-4h-8v-4h8v4zm-11 0h-8v-4h8v4zm-11 0h-8v-4h8v4zm-11 0h-8v-4h8v4zm-11 0h-8v-4h8v4zm-11 0h-8v-4h8v4z" transform="translate(-14323.998 -11665.999)" style="fill:#c8cdd2"/>
+            <path data-name="빼기 220" d="M15013 12326h-84v-48h4v44h76v-76h-44v-4h48v84z" transform="translate(-14297.998 -11639.999)" style="fill:#c8cdd2"/>
+            <path data-name="합치기 272" d="M14933 12248.829V12266h-4v-24h24v4h-17.178l18.592 18.59-2.829 2.829z" transform="translate(-14298 -11640.003)" style="fill:#c8cdd2"/>
+            <path data-name="합치기 273" d="m14990.5 12270-16.5-22-16.5 22h-4.5l21-28 21 28zm-61.5 0 20-26 10.1 13.126-2.284 3.029L14949 12250l-15.385 20z" transform="translate(-14288.998 -11601.995)" style="fill:#c8cdd2"/>
+            <path data-name="빼기 217" d="M14938.5 12261a9.5 9.5 0 1 1 9.5-9.5 9.513 9.513 0 0 1-9.5 9.5zm0-15a5.5 5.5 0 1 0 5.5 5.5 5.506 5.506 0 0 0-5.5-5.5z" transform="translate(-14246.998 -11624.999)" style="fill:#c8cdd2"/>
+        </g>
+    </g>
+</svg>

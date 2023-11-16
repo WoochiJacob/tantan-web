@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="818" viewBox="0 0 910 818">
+    <defs>
+        <clipPath id="hrrbk2822a">
+            <path data-name="사각형 6247" transform="translate(-90 862)" style="fill:#be2828" d="M0 0h910v818H0z"/>
+        </clipPath>
+        <clipPath id="gkei8kio6b">
+            <path data-name="사각형 6242" transform="translate(681 449)" style="stroke:#707070;fill:#fff" d="M0 0h47v47H0z"/>
+        </clipPath>
+        <filter id="1pqtns2h4c" x="636.066" y="590.169" width="155.43" height="162.831" filterUnits="userSpaceOnUse">
+            <feOffset dy="8"/>
+            <feGaussianBlur stdDeviation="16" result="blur"/>
+            <feFlood flood-opacity=".149"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="마스크 그룹 768" transform="translate(90 -862)" style="clip-path:url(#hrrbk2822a)">
+        <g data-name="그룹 7328">
+            <g data-name="타원 345" transform="translate(272 1160)" style="stroke-width:2px;stroke:rgba(112,112,112,.5);fill:none">
+                <circle cx="240" cy="240" r="240" style="stroke:none"/>
+                <circle cx="240" cy="240" r="239" style="fill:none"/>
+            </g>
+            <g data-name="타원 346" transform="translate(359 1247)" style="stroke:rgba(112,112,112,.8);stroke-width:2px;fill:none">
+                <circle cx="153" cy="153" r="153" style="stroke:none"/>
+                <circle cx="153" cy="153" r="152" style="fill:none"/>
+            </g>
+            <g style="clip-path:url(#gkei8kio6b)">
+                <g style="filter:url(#1pqtns2h4c)" data-name="마스크 그룹 767" transform="translate(-82 1057)">
+                    <path data-name="패스 8717" d="M216.233 61.6c-2.077 16.914-4.412 34.577-6.235 49.317 4.114-2.247 8.212-4.521 12.316-6.786L226 117.926l9.713-2.612-3.677-13.772q7.035-.106 14.071-.216c-10.338-13.75-20.974-27.905-29.874-39.726z" transform="rotate(-30 1173.8 -612.281)" style="fill:#fff"/>
+                </g>
+            </g>
+            <g data-name="타원 347" transform="translate(154 1042)" style="stroke:rgba(112,112,112,.2);stroke-width:2px;fill:none">
+                <circle cx="358" cy="358" r="358" style="stroke:none"/>
+                <circle cx="358" cy="358" r="357" style="fill:none"/>
+            </g>
+            <path data-name="패스 8720" d="M-4010.231 103.985H-4120V0h109.773v103.985zm-98.2-92.421v80.857h86.641V75.092h-40.427V28.875h40.427v-17.31zm57.772 51.993h28.869V40.44h-28.869z" transform="translate(4577.113 1348.007)" style="fill:#fff"/>
+            <g data-name="타원 348" transform="translate(-26 862)" style="stroke:rgba(112,112,112,.2);stroke-width:2px;fill:none">
+                <circle cx="538" cy="538" r="538" style="stroke:none"/>
+                <circle cx="538" cy="538" r="537" style="fill:none"/>
+            </g>
+        </g>
+    </g>
+</svg>

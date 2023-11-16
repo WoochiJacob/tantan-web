@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+    <defs>
+        <clipPath id="i2abtutrda">
+            <path data-name="사각형 4158" transform="translate(993 273)" style="stroke:#707070;fill:#fff" d="M0 0h12v12H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="마스크 그룹 445" transform="translate(-993 -273)" style="clip-path:url(#i2abtutrda)">
+        <g data-name="그룹 6571">
+            <path data-name="사각형 4156" transform="rotate(-45 833.394 -1060.597)" style="fill:#fff" d="M0 0h2v6H0z"/>
+            <path data-name="사각형 4157" transform="rotate(45 168.314 1348.082)" style="fill:#fff" d="M0 0h2v8H0z"/>
+        </g>
+    </g>
+</svg>

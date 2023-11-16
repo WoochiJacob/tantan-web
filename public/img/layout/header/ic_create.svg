@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Create_btn_ic" transform="translate(-1633 -30)">
+    <rect id="사각형_4853" data-name="사각형 4853" class="cls-1" width="20" height="20" transform="translate(1633 30)"/>
+    <path id="합치기_240" data-name="합치기 240" class="cls-2" d="M20565,20764v-5h2v5Zm4-7v-2h5v2Zm-10,0v-2h6v-6h2v8Z" transform="translate(-18923.496 -20716.5)"/>
+  </g>
+</svg>

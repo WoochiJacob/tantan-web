@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <clipPath id="2r6871rpna">
+            <path data-name="사각형 4516" transform="translate(1331 6482)" style="fill:#fff" d="M0 0h28v28H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 7074">
+        <g data-name="그룹 6729" transform="translate(.279 .279)">
+            <circle data-name="타원 109" cx="25" cy="25" r="25" transform="translate(-.279 -.279)" style="fill:#f7f8fa"/>
+        </g>
+        <g data-name="마스크 그룹 431" transform="translate(-1320 -6471)" style="opacity:.8;clip-path:url(#2r6871rpna)">
+            <path data-name="빼기 164" d="M12 16.8c-.019 0-1.9 0-3.986-.063a34.415 34.415 0 0 1-5.39-.439A3.006 3.006 0 0 1 .5 14.177a20.117 20.117 0 0 1-.439-3.59C0 9.39 0 8.41 0 8.4s0-.99.063-2.186A20.12 20.12 0 0 1 .5 2.623 3.006 3.006 0 0 1 2.623.5a34.4 34.4 0 0 1 5.39-.437C10.1 0 11.981 0 12 0s1.9 0 3.987.063a34.4 34.4 0 0 1 5.39.437A3.005 3.005 0 0 1 23.5 2.623a20.119 20.119 0 0 1 .439 3.59C24 7.41 24 8.39 24 8.4s0 .99-.063 2.186a20.117 20.117 0 0 1-.439 3.59 3.005 3.005 0 0 1-2.121 2.124 34.416 34.416 0 0 1-5.39.439C13.9 16.8 12.019 16.8 12 16.8zm-2.4-12V12l6.235-3.6z" transform="translate(1333 6487.6)" style="fill:#51535b"/>
+        </g>
+    </g>
+</svg>

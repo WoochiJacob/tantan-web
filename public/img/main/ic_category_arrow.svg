@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="16" viewBox="0 0 8 16">
+    <defs>
+        <clipPath id="ufnd2dg74a">
+            <path data-name="사각형 9529" transform="translate(0 3)" style="fill:#fff" d="M0 0h8v16H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="마스크 그룹 828" transform="rotate(180 4 9.5)" style="clip-path:url(#ufnd2dg74a)">
+        <g data-name="그룹 9249">
+            <path data-name="빼기 338" d="M7.035 0 0 7.035l7.035 7.029v-2.826l-4.207-4.2 4.207-4.21V0z" style="fill:#fff" transform="translate(.001 3.968)"/>
+        </g>
+    </g>
+</svg>
