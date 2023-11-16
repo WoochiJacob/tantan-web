@@ -3,7 +3,6 @@ import { RecoilRoot } from 'recoil';
 import { Route, Routes, useLocation } from 'react-router-dom';
 
 import Layouts from '@components/layout/Layouts';
-// import Home from '@pages/Home';
 import Main from '@pages/Main';
 import About from '@pages/About';
 import Create from '@pages/Create';
